@@ -1,6 +1,6 @@
-#CSS advance
+# CSS advance
 
-##Learning Objectives
+## Learning Objectives
 
 Selectors, properties, and values
 The difference between block and inline styling
